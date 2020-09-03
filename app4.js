@@ -1,5 +1,5 @@
 /* dependency setup */
-process.env.UV_THREADPOOL_SIZE = 128;
+process.env.UV_THREADPOOL_SIZE = 138;
 
 var express = require("express");
 var bodyParser = require('body-parser');
